@@ -6,6 +6,13 @@
 ## Resumen
 Proyecto DIY que integra Raspberry Pi 5 con pantalla, batería, teclado y una colección de herramientas de ciberseguridad. Ideal como estación portátil para pentesting y para demostraciones.
 
+## 📸 Galería del Proyecto
+
+| Hardware (Raspberry Pi 5) | Kali Desktop (Remote) | Telemetría OLED |
+| :---: | :---: | :---: |
+| ![Hardware](./docs/hardware_rpi5.jpg) | ![Software](./docs/kali_desktop.png) | ![OLED](./docs/oled_telemetry.jpg) |
+
+---
 ## Qué incluye
 - Imagen base: Kali Linux ARM64 (Raspberry Pi 5)
 - Arranque headless mediante inyección de `wpa_supplicant.conf` y archivo `ssh` en la partición `boot`
