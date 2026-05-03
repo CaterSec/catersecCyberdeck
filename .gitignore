@@ -1,0 +1,23 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Images and backups
+*.img
+*.img.gz
+*.bak
+*.key
+*.pem
+secrets/
+*.env
+
+# Python
+venv/
+__pycache__/
+
+# System
+*.log
+
+# Editor
+.vscode/
+.idea/
